@@ -1,0 +1,21 @@
+.introbox{
+    background-image: url("https://images.unsplash.com/photo-1476842634003-7dcca8f832de?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+    width:100vw !important;
+    height:800px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    overflow-x: hidden;
+}
+
+.writebox{
+    padding-top:100px;
+    height:100%;
+    width:80%;
+    margin:0 auto;
+    color:white; 
+    font-size:18px;
+}
+h1{
+    font-size:50px;
+}

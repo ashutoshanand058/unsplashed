@@ -1,0 +1,31 @@
+.searchbox{
+    width:100%;
+    border:1px solid grey;
+    border-radius:10px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:white !important;
+    height:40px !important;
+}
+.searchbox >.searchIcon {
+    flex:0.02;
+    justify-items: center;
+    align-items:center;
+    color:gray;
+    margin-left:20px;
+    margin-right:20px;
+
+}
+.searchbox > input{
+    flex:1;
+    border:none !important;
+    outline:0 !important;
+    outline-style: none !important;
+}
+.searchbox > button{
+    height:40px;
+    border-radius:10px;
+    outline:0 !important;
+    outline-style: none !important;
+}
